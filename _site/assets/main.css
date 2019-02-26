@@ -1,7 +1,7 @@
 body {
   font-family: 'Vollkorn', serif;
   color: #46433A;
-  background-color: #F1EED9; }
+  background-color: #f9f9f9; }
 
 header,
 main {
@@ -16,7 +16,7 @@ a:link,
 a:visited,
 a:hover,
 a:active {
-  color: #CE534D;
+  color: indianred;
   text-decoration: none; }
 
 a:hover {
@@ -49,8 +49,8 @@ since it must be aligned with the content */
   background-size: cover;
   border-radius: 50%;
   -moz-border-radius: 50%;
-  border: 2px solid #F1EED9;
-  box-shadow: 0 0 0 3px #46433A; }
+  border: 2px solid #f9f9f9;
+  box-shadow: 0 0 0 0px #46433A; }
 
 /*** author ***/
 .author-container h1 {
